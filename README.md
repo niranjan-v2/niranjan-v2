@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Niranjan!
 
-<!--
-**niranjan-v2/niranjan-v2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I'm a software developer passionate about open-source, systems programming and cloud.
 
-Here are some ideas to get you started:
+![](https://github-readme-stats.vercel.app/api?username=niranjan-v2&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack
+- 💻 Languages: Python, JavaScript, C, C++
+- ⚙️ Tools: Git, Docker, Linux
+- 🌐 Frameworks: React, React Native, Node.js, Qt, Django
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/niranjan-v/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green)](https://niranjan.com)
